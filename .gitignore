@@ -4,3 +4,4 @@
 ofxparse.egg-info/
 build/
 dist/
+/__init__.py
